@@ -2,7 +2,7 @@
   "name": "shopwave",
   "version": "1.0.0",
   "description": "ShopWave an E-commerce web application.",
-  "main": "server.js",
+  "main": "backend/server.js",
   "scripts": {
     "dev": "nodemon backend/server.js",
     "start": "node backend/server.js",
